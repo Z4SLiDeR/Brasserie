@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Brasserie.Model.Restaurant.People.Person">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECEEECACAAAACQAAFAAAAAAAAAAAAAEAAAAgAACEk=</HashCode>
+      <FileName>Model\Restaurant\People\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.People.Customer">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Brasserie.Model.Restaurant.People.Customer.CustomerType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Restaurant\People\Customer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\People\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.People.Manager">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAoAAAAEQIAAAAAIACEIACAAAUKIAAACA=</HashCode>
+      <FileName>Model\Restaurant\People\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.People.StaffMember">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAABAAAAAAAAAAAIAAAAAEAAACAAAAAkQAoAA=</HashCode>
+      <FileName>Model\Restaurant\People\StaffMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
