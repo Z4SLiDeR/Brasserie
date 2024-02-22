@@ -35,5 +35,54 @@
       <FileName>Model\Restaurant\People\StaffMember.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Brasserie.Model.Restaurant.Catering.Alcohol" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Alcohol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.Catering.Aperitif" Collapsed="true">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Aperitif.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.Catering.Beer" Collapsed="true">
+    <Position X="14.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Beer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.Catering.Dish" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Dish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.Catering.Drink" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Drink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.Catering.Item" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasserie.Model.Restaurant.Catering.Soft" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Soft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
